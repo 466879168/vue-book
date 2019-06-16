@@ -6,6 +6,7 @@ Webpack + Vue2.x + vue-cli + vue-router +node
 
 ## 未做完
 自身知识不够很多功能不知道怎么做 对axios不熟悉 接口不怎么会运用 
+
 加载更多 向上滚动加载更多 下拉刷新 增加图书 收藏功能未做
 
 
